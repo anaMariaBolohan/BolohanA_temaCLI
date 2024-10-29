@@ -9,3 +9,14 @@ C:\Users\Ana\source\repos\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.c
 C:\Users\Ana\source\repos\Lab02\Lab02\obj\Debug\Lab02.csproj.Up2Date
 C:\Users\Ana\source\repos\Lab02\Lab02\obj\Debug\Lab02.exe
 C:\Users\Ana\source\repos\Lab02\Lab02\obj\Debug\Lab02.pdb
+C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\bin\Debug\Lab02.exe
+C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\bin\Debug\Lab02.pdb
+C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\bin\Debug\OpenTK.dll
+C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\bin\Debug\OpenTK.pdb
+C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\bin\Debug\OpenTK.xml
+C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\obj\Debug\Lab02.csproj.Up2Date
+C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\obj\Debug\Lab02.exe
+C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\obj\Debug\Lab02.pdb
