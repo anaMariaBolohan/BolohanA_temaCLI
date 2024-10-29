@@ -32,3 +32,43 @@
   *nearPlane: distanța de la cameră până la planul apropiat (minim pozitiv).
   *farPlane: distanța până la planul îndepărtat (trebuie să fie mai mare decât nearPlane).
 Domeniul de valori pentru acești parametri este dependent de specificațiile scenei și ale obiectelor randate.
+
+
+
+### TEMA LAB 3
+
+1. Ordinea de desenare a vertexurilor:
+   - Triunghiuri: Anti-orar (pentru a fi considerate front-facing).
+   - Axele de coordonate pot fi desenate folosind un singur apel GL.Begin() cu GL.Begin(PrimitiveType.Lines).
+
+2. Anti-aliasing:
+   Anti-aliasing este o tehnică utilizată pentru a reduce efectul de "jaggies" sau margini zimțate pe contururile obiectelor grafice. Aceasta funcționează prin amestecarea culorilor pixelilor de margine, oferind o tranziție mai lină între culori.
+
+3. Efectul rulării comenzilor:
+   - GL.LineWidth(float): Modifică lățimea liniei desenate. Funcționează în interiorul unei zone GL.Begin().
+   - GL.PointSize(float): Modifică dimensiunea punctului desenat. Funcționează de asemenea în interiorul unei zone GL.Begin().
+
+4. Răspunsuri la întrebările specifice:
+   - LineLoop: Desenează linii între vertexuri, conectând ultimul vertex cu primul, formând un poligon.
+   - LineStrip: Desenează linii între vertexuri, conectând fiecare vertex la următorul, fără a închide figura.
+   - TriangleFan: Desenează triunghiuri folosind un vertex central, formând triunghiuri succesive în jurul acestuia.
+   - TriangleStrip: Desenează triunghiuri consecutive, folosind ultimele două vertexuri pentru a forma fiecare triunghi nou.
+
+5. Proiect elementar:
+   Creați un proiect nou în care să includeți un exemplu simplu de desenare a unor primitive folosind OpenGL, respectând setările corecte pentru viewport.
+
+6. Importanța culorilor diferite în obiecte 3D:
+   Culorile diferite permit crearea de efecte de adâncime și volum, făcând obiectele mai realiste și mai vizibile. Gradientele ajută la percepția formei și detaliilor.
+
+7. Gradient de culoare:
+   Un gradient de culoare reprezintă o tranziție lină între două sau mai multe culori. În OpenGL, acesta se obține setând culori diferite pentru fiecare vertex al unei primitive.
+
+8. Culoarea triunghiului:
+   Când se modifică culoarea triunghiului între valorile minime și maxime pentru fiecare canal, efectul utilizării canalului de transparență poate duce la crearea unor efecte vizuale de suprapunere sau transparență parțială.
+
+9. Manipularea valorilor RGB:
+   Modificarea valorilor RGB pentru fiecare vertex va permite obținerea unor efecte de gradient și diversitate vizuală, iar valorile RGB pot fi afișate în consolă pentru a verifica modificările.
+
+10. Efectul culorilor diferite pe vertexuri:
+   Utilizarea unor culori diferite pentru fiecare vertex atunci când se desenează o linie sau un triunghi în modul strip va crea un gradient de culoare, adăugând complexitate vizuală și estetică scenei.
+
