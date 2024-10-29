@@ -20,3 +20,4 @@ C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\obj\Debug\Lab02.csproj.CoreC
 C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\obj\Debug\Lab02.csproj.Up2Date
 C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\obj\Debug\Lab02.exe
 C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\obj\Debug\Lab02.pdb
+C:\Users\Ana\Desktop\BolohanA_temaCLI\TemaCLI\Lab02\bin\Debug\triangle.txt

@@ -22,7 +22,7 @@ namespace Lab02
         public SimpleWindow() : base(800, 600)
         {
             KeyDown += Keyboard_KeyDown;
-            LoadTriangleCoordinates("C:\\Users\\Ana\\Desktop\\BolohanA_temaCLI\\TemaCLI\\Lab02\\triangle.txt"); // LAB 3 cerința 8: Încărcarea coordonatelor din fișier
+            LoadTriangleCoordinates("triangle.txt"); // LAB 3 cerința 8: Încărcarea coordonatelor din fișier
         }
 
         // Eveniment pentru tastatură
